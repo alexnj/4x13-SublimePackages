@@ -1,0 +1,9 @@
+[submodule "Solarized"]
+	path = Solarized
+	url = https://github.com/alexnj/Solarized.git
+[submodule "Theme - Sodarized"]
+	path = Theme - Sodarized
+	url = https://github.com/alexnj/sodarized.git
+[submodule "VcsGutter"]
+	path = VcsGutter
+	url = https://github.com/bradsokol/VcsGutter.git
