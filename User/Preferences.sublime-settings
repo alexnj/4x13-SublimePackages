@@ -1,21 +1,22 @@
 {
 	"color_scheme": "Packages/Solarized/Solarized (light).tmTheme",
-	"theme": "Sodarized Light 3.sublime-theme",
-    "soda_folder_icons": true,
-
-    "detect_indentation": false,
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-    "word_wrap": true,
-
-    /* http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/ */
+	"detect_indentation": false,
+	"draw_minimap_border": true,
 	"font_face": "Inconsolata-dz",
 	"font_size": 14,
-	
-    "gutter": true,
+	"gutter": true,
 	"highlight_line": true,
 	"line_padding_bottom": 0,
 	"line_padding_top": -1,
-	"rulers": [ 72, 80, 120 ],
-    "draw_minimap_border": true
+	"rulers":
+	[
+		72,
+		80,
+		120
+	],
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Sodarized Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }
