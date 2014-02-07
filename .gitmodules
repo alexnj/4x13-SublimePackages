@@ -10,3 +10,9 @@
 [submodule "GitGutter"]
 	path = GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
+[submodule "sublime-dustjs"]
+	path = sublime-dustjs
+	url = https://github.com/sntran/sublime-dustjs.git
+[submodule "SublimeOnSaveBuild"]
+	path = SublimeOnSaveBuild
+	url = https://github.com/alexnj/SublimeOnSaveBuild.git
