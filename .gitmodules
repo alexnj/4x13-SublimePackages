@@ -13,3 +13,6 @@
 [submodule "SublimeOnSaveBuild"]
 	path = SublimeOnSaveBuild
 	url = https://github.com/alexnj/SublimeOnSaveBuild.git
+[submodule "Sublime-Wrap-Plus"]
+	path = Sublime-Wrap-Plus
+	url = https://github.com/ehuss/Sublime-Wrap-Plus.git
