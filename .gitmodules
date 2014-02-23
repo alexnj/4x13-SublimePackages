@@ -16,3 +16,9 @@
 [submodule "Sublime-Wrap-Plus"]
 	path = Sublime-Wrap-Plus
 	url = https://github.com/ehuss/Sublime-Wrap-Plus.git
+[submodule "SublimeLinter-jshint"]
+	path = SublimeLinter-jshint
+	url = https://github.com/SublimeLinter/SublimeLinter-jshint.git
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter3.git
