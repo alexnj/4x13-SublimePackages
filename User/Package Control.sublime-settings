@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"Sass",
+		"SublimeGit",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass"
+	]
+}
