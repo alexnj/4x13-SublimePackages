@@ -1,6 +1,3 @@
-[submodule "Solarized"]
-	path = Solarized
-	url = https://github.com/alexnj/Solarized.git
 [submodule "Theme - Sodarized"]
 	path = Theme - Sodarized
 	url = https://github.com/alexnj/sodarized.git
