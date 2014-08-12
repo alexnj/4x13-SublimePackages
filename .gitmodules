@@ -16,9 +16,6 @@
 [submodule "SublimeLinter"]
 	path = SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter3.git
-[submodule "Theme - Spacegrey"]
-	path = Theme - Spacegrey
-	url = https://github.com/alexnj/spacegray.git
 [submodule "Theme - Clouds"]
 	path = Theme - Clouds
 	url = https://github.com/alexnj/SublimeText-Clouds-Color-Schemes.git
