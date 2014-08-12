@@ -19,3 +19,6 @@
 [submodule "Theme - Clouds"]
 	path = Theme - Clouds
 	url = https://github.com/alexnj/SublimeText-Clouds-Color-Schemes.git
+[submodule "Theme - Spacegray"]
+	path = Theme - Spacegray
+	url = https://github.com/alexnj/spacegray.git
