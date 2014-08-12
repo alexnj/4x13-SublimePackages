@@ -4,9 +4,9 @@
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
-	"caret_extra_width": 9,
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/Clouds (SL).tmTheme",
+	"caret_extra_width": 3,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Theme - Clouds/Clouds.tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": false,
 	"drag_text": false,
@@ -17,7 +17,7 @@
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
 	"fold_buttons": true,
-	"font_face": "Menlo",
+	"font_face": "Inconsolata-dz",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -50,7 +50,7 @@
 	"show_tab_close_buttons": false,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "Sodarized Light 3.sublime-theme",
+    "theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": false,
