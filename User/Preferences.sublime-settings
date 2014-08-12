@@ -55,5 +55,9 @@
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 120,
+    "spacegray_tabs_font_small": true,
+    "spacegray_tabs_small": true,
+    "spacegray_sidebar_font_small": true,
+    "spacegray_sidebar_tree_small": true
 }
