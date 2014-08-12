@@ -1,6 +1,3 @@
-[submodule "Theme - Sodarized"]
-	path = Theme - Sodarized
-	url = https://github.com/alexnj/sodarized.git
 [submodule "GitGutter"]
 	path = GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
