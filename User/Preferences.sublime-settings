@@ -17,12 +17,12 @@
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
 	"fold_buttons": true,
-	"font_face": "Inconsolata-dz",
+	"font_face": "Consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 15,
 	"gpu_window_buffer": true,
 	"gutter": true,
 	"highlight_line": true,
@@ -33,7 +33,7 @@
 	],
 	"index_files": false,
 	"line_padding_bottom": 0,
-	"line_padding_top": 0,
+	"line_padding_top": 1,
 	"margin": 5,
 	"match_brackets": true,
 	"overlay_scroll_bars": "enabled",
@@ -53,7 +53,7 @@
     "theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
-	"trim_trailing_white_space_on_save": false,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"wrap_width": 120,
     "spacegray_tabs_font_small": true,

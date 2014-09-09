@@ -22,3 +22,6 @@
 [submodule "Theme - Spacegray"]
 	path = Theme - Spacegray
 	url = https://github.com/alexnj/spacegray.git
+[submodule "editorconfig-sublime"]
+	path = editorconfig-sublime
+	url = https://github.com/sindresorhus/editorconfig-sublime.git
